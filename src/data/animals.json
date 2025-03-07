@@ -1,0 +1,40 @@
+{
+    "animals": [
+        {
+            "name": "Muxu",
+            "age": 1.5,
+            "race": "EUROPEAN",
+            "image": "https://placedog.net/200/200"
+        },
+        {
+            "name": "Pacha",
+            "age": 3,
+            "race": "SIAMESE",
+            "image": "https://placekitten.com/200/200"
+        },
+        {
+            "name": "Belle",
+            "age": 10,
+            "race": "GOLDEN_RETRIEVER",
+            "image": "https://placedog.net/201/200"
+        },
+        {
+            "name": "Kiwi",
+            "age": 2,
+            "race": "COCKATIEL",
+            "image": "https://placekitten.com/201/200"
+        },
+        {
+            "name": "Mimi",
+            "age": 2,
+            "race": "PERSIAN",
+            "image": "https://placedog.net/202/200"
+        },
+        {
+            "name": "Milo",
+            "age": 3,
+            "race": "BENGAL",
+            "image": "https://placekitten.com/202/200"
+        }
+    ]
+}
